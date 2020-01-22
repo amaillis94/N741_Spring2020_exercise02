@@ -1,3 +1,5 @@
+#created January 22nd in class 2
+
 library(hexbin)
 # use the data() function
 # load NHANES dataset from the hexbin package
